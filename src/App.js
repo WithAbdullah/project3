@@ -3,8 +3,8 @@ import Name from './myportfolio'
 
 function App() {
   return (
-    <Name Myname="Muhammad Abdullah" />
-    
+    <Name Myname=" Muhammad Abdullah" />
+
 
   );
 }
