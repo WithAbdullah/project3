@@ -4,7 +4,7 @@ function Name(props){
     return(
         <div>
     <h1>My name is {props.Myname}</h1>
-    <img src="/images/abdullah.jpg" alt="abdullah" >
+    <img src="/images/abdullah.jpg" alt="abdullah" />
     </div>
 
     )
